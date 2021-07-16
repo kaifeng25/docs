@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaifeng25/docs.git",
+  "author": "kaifeng25 <kaifengya1616@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+
+}
