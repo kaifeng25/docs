@@ -2,7 +2,7 @@ module.exports = {
     head: [
         ['link', {
             rel: 'icon',
-            href: '/favicon.ico'
+            href: '/assets/img/favicon.ico'
         }]
     ],
     title: 'Kaite',
@@ -22,3 +22,4 @@ module.exports = {
         editLinkText: '在 GitHub 上编辑此页 ！',
     }
 }
+// 备案 浙ICP备2021000610号
